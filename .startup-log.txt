@@ -1,0 +1,93 @@
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Already up-to-date.
+Updated 1 tap (homebrew/core).
+==> New Formulae
+neatvi
+willgit
+==> Updated Formulae
+archi-steam-farm
+chaiscript
+convox
+feedgnuplot
+folly
+geoserver
+git
+gitbucket
+gofabric8
+govendor
+heroku
+hg-fast-export
+httpstat
+kubernetes-cli
+libdivecomputer
+m-cli
+macvim
+mighttpd2
+nats-streaming-server
+offlineimap
+osrm-backend
+paket
+pngcrush
+rancher-cli
+sngrep
+stout
+terragrunt
+vim
+yubico-piv-tool
+zurl
+==> Upgrading 1 outdated package, with result:
+git 2.10.2
+==> Upgrading git
+==> Downloading https://homebrew.bintray.com/bottles/git-2.10.2.sierra.bottle.tar.gz
+==> Pouring git-2.10.2.sierra.bottle.tar.gz
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completion has been installed to:
+  /usr/local/share/zsh/site-functions
+
+Emacs Lisp files have been installed to:
+  /usr/local/share/emacs/site-lisp/git
+==> Summary
+🍺  /usr/local/Cellar/git/2.10.2: 1,445 files, 31.9M
+Already up-to-date.
